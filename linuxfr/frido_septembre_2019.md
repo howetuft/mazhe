@@ -6,11 +6,11 @@ https://linuxfr.org/redaction/news/nouvelle-depeche-39424
 
 Ce fichier contient mes notes pour créer l'article d'annonce du Frido 2019 sur linuxfr.
 
-[Le Frido](https://laurent.claessens-donadello.eu/frido.html) est un livre de mathématique en 4 volumes reprenant à peu près tout de la construction des naturels (non inclue) jusqu'à la fin de l'agrégation, tant en algèbre qu'en analyse.
+[Le Frido](https://laurent.claessens-donadello.eu/frido.html) est un livre de mathématique en 4 volumes reprenant à peu près tout de la construction des naturels (non incluse) jusqu'à la fin de l'agrégation, tant en algèbre qu'en analyse.
 
 ## Originalité
 
-Il se distingue des autres livres de mathématique par :
+Il se distingue des autres livres de mathématique par les faits suivants :
 
 - Il couvre tous les champs de l'agrégation, donc il est long (2200 pages)
 - Il va dans l'ordre logique mathématique, c'est-à-dire que les démonstrations n'utilisent que des théorèmes déjà démontrés. Cela n'est pas (et de loin) l'ordre pédagogique. Ce n'est donc pas dans le Frido qu'il faut commencer à apprendre la mathématique.
@@ -70,5 +70,5 @@ Mon plan pour la suite :
 Le tout :
 
 - En utilisant les bons outils de géométrie différentielle
-- En écrivant  $ x\cdot y $  ce que les phycien notent  $ x^iy_i $
+- En écrivant  $ x\cdot y $  ce que les physiciens notent  $ x^iy_i $
 - En disant «le vecteur $ v$ »  et non «le vecteur $v_{\mu}$ ».
